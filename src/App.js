@@ -1,3 +1,4 @@
+import Nav from './components/Nav';
 import ImageOne from './components/ImageOne'
 import ImageTwo from './components/ImageTwo'
 import ImageThree from './components/ImageThree'
@@ -10,9 +11,11 @@ import TextBox4 from './components/TextBox4'
 
 
 
+
 function App() {
   return (
     <div className="App">
+      <Nav  />
      <ImageOne  />
      <TextBox1 />
      <ImageTwo  />

@@ -6,7 +6,6 @@ import { useParallaxController } from 'react-scroll-parallax';
 const TextBox = () => {
   return (
     <div className="text-box">
-      {/* Include the parallax Component here */}
      
 
       <h3> About Us</h3>
