@@ -9,6 +9,8 @@ import TextBox2 from './components/TextBox2'
 import TextBox3 from './components/TextBox3'
 import TextBox4 from './components/TextBox4'
 
+import Footer from './components/Footer';
+
 
 
 
@@ -24,6 +26,7 @@ function App() {
      <TextBox3 />
      <ImageFour  />
      <TextBox4 />
+     <Footer/>
     </div>
   );
 }
