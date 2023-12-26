@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/parallax-react/static/css/main.951532f4.css",
+    "main.js": "/parallax-react/static/js/main.4ae50678.js",
+    "static/media/maincourse.png": "/parallax-react/static/media/maincourse.adf90bad41bee04b14f0.png",
+    "static/media/resturant.png": "/parallax-react/static/media/resturant.31b9a540bd37cdca7f2e.png",
+    "static/media/appetizer.png": "/parallax-react/static/media/appetizer.6a4305b9f0a6ca0b55a8.png",
+    "static/media/desserts.png": "/parallax-react/static/media/desserts.5a5c6207f5d7b544bc86.png",
+    "index.html": "/parallax-react/index.html",
+    "main.951532f4.css.map": "/parallax-react/static/css/main.951532f4.css.map",
+    "main.4ae50678.js.map": "/parallax-react/static/js/main.4ae50678.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.951532f4.css",
+    "static/js/main.4ae50678.js"
+  ]
+}
