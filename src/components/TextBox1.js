@@ -1,11 +1,24 @@
+import React from 'react';
+import { useParallax } from 'react-scroll-parallax';
+import { useParallaxController } from 'react-scroll-parallax';
+
+
 const TextBox = () => {
   return (
     <div className="text-box">
-        <h3>Straw Hat Adventures: Sailing the Grand Line for One Piece</h3>
-        <p> Luffy sets out on his journey, he forms a diverse and quirky crew, known as the Straw Hat Pirates,
-           and together they sail the Grand Line, a dangerous and mysterious sea where the One Piece is said to be located. 
-        </p>
+      {/* Include the parallax Component here */}
+     
+
+      <h3> About Us</h3>
+      <p>
+      Indulge in exquisite dining at Restaurant chic et délicieux Plips, 
+      where we specialize in delicious Norwegian and Nordic cuisine. 
+      Elevate your culinary experience with us.
+      </p>
+    
     </div>
-  )
-}
-export default TextBox
+    
+  );
+};
+
+export default TextBox;

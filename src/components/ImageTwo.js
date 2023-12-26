@@ -1,10 +1,11 @@
 import { Parallax } from 'react-parallax';
-import Image2 from '../img/onepiece2.jpg'
+import Image2 from '../img/appetizer.png'
 
 const ImageTwo = () => (
-    <Parallax className='image' bgImage={Image2} strength={800}>
+    
+    <Parallax className='image' bgImage={Image2} strength={400}>
         <div className='content'>
-            <span className='img-txt'>alabasta</span>
+            <span className='img-txt'>Appetizer</span>
         
         </div>
         

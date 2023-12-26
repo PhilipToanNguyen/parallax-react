@@ -45,6 +45,7 @@ h3 {
 }
 
 .text-box {
+  flex-direction: column;
   text-align: center;
   padding: 2rem 4rem;
   
