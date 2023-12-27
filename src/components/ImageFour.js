@@ -2,7 +2,7 @@ import { Parallax } from 'react-parallax';
 import Image4 from '../img/desserts.png'
 
 const ImageFour = () => (
-    <Parallax className='image' bgImage={Image4} strength={800} blur={0}>
+    <Parallax className='image' bgImage={Image4} strength={600} blur={0}>
         <div className='content'>
             <span className='img-txt'>Desserts</span>
         
